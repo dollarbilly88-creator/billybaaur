@@ -1,0 +1,19 @@
+/* style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  text-align: center;
+  color: #ff6600; /* Sport orange */
+  margin-top: 40px;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
