@@ -17,3 +17,27 @@ p {
   text-align: center;
   font-size: 18px;
 }
+.product-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.product-card img {
+  max-width: 100%;
+  border-radius: 4px;
+}
+
+.product-card h2 {
+  color: #ff6600;
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+.product-card p {
+  font-size: 16px;
+  color: #555;
+}
