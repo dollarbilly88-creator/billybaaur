@@ -1,18 +1,41 @@
-# Billybaaur
+# BloomShop - Free Next.js Tailwind CSS E-Commerce Template
 
-Sport Running Gear Website
+#### Preview
 
-## 🏃‍♂️ Overview
-Billybaaur бол спортын гүйлтийн бараа, хэрэгсэл, дагалдах бүтээгдэхүүнүүдийг онлайнаар худалдаалах вэбсайт юм. Энэхүү сайт нь гүйгчид болон спорт сонирхогчдод зориулсан чанартай, найдвартай бүтээгдэхүүнүүдийг санал болгоно.
+ - [Demo](https://themewagon.github.io/bloomtpl/)
 
-## ✨ Features
-- Running apparel (шорт, цамц, куртик)
-- Shoes & accessories (гүйлтийн пүүз, малгай, нарны шил)
-- Training gear (GPS цаг, фитнесс хэрэгсэл)
-- Simple, responsive UI
-- GitHub Pages дээр хостлогдсон
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/bloomtpl/)
 
-## 🚀 Getting Started
-1. Репо‑г clone хийнэ:
-   ```bash
-   git clone https://github.com/dollarbilly88-creator/billybaaur.git
+## Getting Started
+
+1. Clone Repository
+```
+git clone https://github.com/themewagon/bloomtpl.git
+```
+2. Install Dependencies
+```
+npm i
+```
+3. Run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
+
+## Author 
+```
+Design and code is completely written by Bloomtpl and development team. 
+```
+
+## License
+
+ - Design and Code is Copyright &copy; <a href="https://github.com/bloomtpl" target="_blank">Bloomtpl</a>
+ - Licensed cover under [MIT]
+ - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
